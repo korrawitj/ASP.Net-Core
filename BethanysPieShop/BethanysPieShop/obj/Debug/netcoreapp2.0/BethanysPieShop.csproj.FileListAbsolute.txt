@@ -1,0 +1,11 @@
+C:\Task\TrainASPCore\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.0\BethanysPieShop.deps.json
+C:\Task\TrainASPCore\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.0\BethanysPieShop.runtimeconfig.json
+C:\Task\TrainASPCore\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.0\BethanysPieShop.runtimeconfig.dev.json
+C:\Task\TrainASPCore\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.0\BethanysPieShop.dll
+C:\Task\TrainASPCore\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.0\BethanysPieShop.pdb
+C:\Task\TrainASPCore\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.csprojAssemblyReference.cache
+C:\Task\TrainASPCore\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.csproj.CoreCompileInputs.cache
+C:\Task\TrainASPCore\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.AssemblyInfoInputs.cache
+C:\Task\TrainASPCore\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.AssemblyInfo.cs
+C:\Task\TrainASPCore\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.dll
+C:\Task\TrainASPCore\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.pdb
